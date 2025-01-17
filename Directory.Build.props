@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <!-- Custom Properties -->
+    <CompanyName>Trafikverket</CompanyName>
+    <ProjectName>Strateg</ProjectName>
+  </PropertyGroup>
+</Project>

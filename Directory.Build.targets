@@ -1,0 +1,8 @@
+<Project>
+  <PropertyGroup>
+    <!-- Redefine MSBuild Properties -->
+    <Company>$(CompanyName)</Company>
+    <AssemblyName>$(CompanyName).$(ProjectName).$(MSBuildProjectName)</AssemblyName>
+    <RootNamespace>$(CompanyName).$(ProjectName).$(MSBuildProjectName.Replace(" ", "_"))</RootNamespace>
+  </PropertyGroup>
+</Project>
