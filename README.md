@@ -27,4 +27,4 @@ public AnyStepDefinitions(IReqnrollOutputHelper testOutput, IRequirementReportOu
 
 # Development
 Pull Requests are appreciated :-)
-Source code lives in repository: [http://tfs:8080/tfs/trv/TRVHub/_git/Strateg.Reqnreport](https://github.com/Tylland/Reqnreport)
+Source code lives in repository: [https://github.com/Tylland/Reqnreport](https://github.com/Tylland/Reqnreport)
